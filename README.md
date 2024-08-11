@@ -50,4 +50,4 @@ In this project, you will become familiar with the Stereo Matching problem by im
     drive.mount('/content/drive')
     ```
 
-4. *NOTE*: If you cannot download the dataset, use the **data** folder and modify the images' paths.
+4. *NOTE*: If you cannot download the dataset, just use the **data** folder and modify the images' paths.
